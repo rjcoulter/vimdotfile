@@ -1,7 +1,8 @@
 execute pathogen#infect()
 filetype on
 syntax on
-colorscheme Tommorow-Night
+set background=dark
+colorscheme solarized8-low
 set number
 set hidden
 set history
